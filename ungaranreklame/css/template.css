@@ -1,0 +1,14 @@
+p {color:#666;}
+.text-abu{color:#666}
+.no-border{border-radius: 0px}
+
+.bg-img{background-image: url(img/bg/bg.png);}
+
+/* warna text  */
+.text-teal{color:#2ca089}
+.text-white{color:#fff;}
+.text-center{text-align: center}
+
+.margin-top{margin-top: 50px;}
+/* warna background */
+.bg-teal{background:#2ca089;}
