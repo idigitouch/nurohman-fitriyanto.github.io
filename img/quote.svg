@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="quote.svg">
+   sodipodi:docname="quote.svg"
+   inkscape:export-filename="/home/developer/nurohman-fitriyanto.github.io/img/quote.png"
+   inkscape:export-xdpi="44"
+   inkscape:export-ydpi="44">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="67.072956"
+     inkscape:cx="37.286083"
      inkscape:cy="0.45003653"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -54,9 +57,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1012.3622)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3335"
+       width="28.284271"
+       height="37.830212"
+       x="0.17677669"
+       y="1012.4106" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2.4748788,1021.9774 11.9524772,0 c -0.028,3.8089 -0.0758,7.2807 -0.303365,11.0825 l -2.350667,4.342 -3.5247185,-0.033 2.2331405,-4.3498 0.0235,-1.6222 -8.0303625,-0.027 z"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2.4748788,1014.5528 11.9524772,0 c -0.028,3.8089 -0.0758,7.2807 -0.303365,11.0825 l -2.350667,4.342 -3.5247185,-0.033 2.2331405,-4.3498 0.0235,-1.6222 -8.0303625,-0.027 z"
        id="rect3336"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
@@ -64,7 +74,7 @@
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
        id="path3339"
-       d="m 16.203492,1021.9774 11.952475,0 c -0.02801,3.8089 -0.0758,7.2807 -0.303365,11.0825 l -2.350668,4.342 -3.524718,-0.033 2.233141,-4.3498 0.02352,-1.6222 -8.030361,-0.027 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
+       d="m 16.203492,1014.5528 11.952475,0 c -0.02801,3.8089 -0.0758,7.2807 -0.303365,11.0825 l -2.350668,4.342 -3.524718,-0.033 2.233141,-4.3498 0.02352,-1.6222 -8.030361,-0.027 z"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
