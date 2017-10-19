@@ -4,6 +4,7 @@
 
       <!--Import materialize.css-->
       <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
       <!--Let browser know website is optimized for mobile-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -164,8 +165,34 @@
     <div class="row">
       <h3 class="center grey-text"><img src="img/actifity.svg" width="50%"><br>Job Actifity</h3>
       <div class="container">
-
+      <p class="center">Aktifitas keseharian saya saat ini di toko pestisida dan pembibitan hortikultura.</p>
       </div>
+      <div class="carousel carousel-slider center" data-indicators="true">
+    <div class="carousel-item red white-text" href="#one!">
+      <h5 class="white-text"  style="padding:100px">
+         <i class="material-icons">format_quote</i>Kegagalan kebanyakan disebabkan oleh pengerjaan yang kurang sungguh-sungguh, bukan karena kekurangan talenta<i class="material-icons">format_quote</i> <br>
+        <small><small><i>~ Germany Quotes</i></small></small>
+      </h5>
+    </div>
+    <div class="carousel-item teal white-text" href="#two!">
+      <h5 class="white-text"  style="padding:100px">
+         <i class="material-icons">format_quote</i>memulai sebuah usaha sama dengan berjalan di kawat yang tinggi. Anda hanya bisa menjalaninya jika memusatkan perhatian untuk berjalan sampai ke ujung yang satunya<i class="material-icons">format_quote</i> <br>
+        <small><small><i>~ James Bernstein</i></small></small>
+      </h5>
+    </div>
+    <div class="carousel-item green white-text" href="#three!">
+      <h5 class="white-text"  style="padding:100px">
+         <i class="material-icons">format_quote</i>Bila sesuatu berjalan tidak sesuai dengan rencana, terimalah sebagai bagian tanggung jawab.<i class="material-icons">format_quote</i> <br>
+        <small><small><i>~ Anonim</i></small></small>
+      </h5>
+    </div>
+    <div class="carousel-item blue white-text" href="#four!">
+      <h5 class="white-text"  style="padding:100px">
+         <i class="material-icons">format_quote</i>hampir semua orangn bisa menganggung kemalangan, tapi jika anda ingin menguji watak manusia, coba beri dia kekuasaan.<i class="material-icons">format_quote</i> <br>
+        <small><small><i>~ Abraham Lincoln</i></small></small>
+      </h5>
+    </div>
+  </div>
     </div>
     <!-- close row -->
   </div>
@@ -173,13 +200,27 @@
 <footer class="page-footer teal">
           <div class="container">
             <div class="row">
-              <div class="col l12 center">
+              <div class="col s12 center">
                 <h5>Temukan Saya di </h5>
-                 <a href="https://www.facebook.com/NurohmanFitriyanto" target="_blank"><img src="img/facebook.svg" width="60"></a> 
-                 <a href="https://www.twitter.com/Nurohman_ID" target="_blank"><img src="img/twitter.svg" width="60"></a> 
-                 <a href="https://www.instagram.com/NurohmanFitriyanto" target="_blank"><img src="img/instagram.svg" width="60"></a> 
-                 <a href="https://www.linkedin.com/NurohmanFitriyanto" target="_blank"><img src="img/linkedin.svg" width="60"></a> 
-                 <img src="img/whatsapp.svg" width="60">
+                <div class="col l4">&nbsp;</div>
+                <div class="col l1 center">
+                  <a href="https://www.facebook.com/NurohmanFitriyanto" target="_blank"><img src="img/facebook.svg" width="60"></a> 
+                </div>
+                <div class="col l1">
+                  <a href="https://www.twitter.com/Nurohman_ID" target="_blank"><img src="img/twitter.svg" width="60"></a> 
+                </div>
+                <div class="col l1">
+                  <a href="https://www.instagram.com/NurohmanFitriyanto" target="_blank"><img src="img/instagram.svg" width="60"></a> 
+                </div>
+                <div class="col l1">
+                  <a href="https://www.linkedin.com/NurohmanFitriyanto" target="_blank"><img src="img/linkedin.svg" width="60"></a> 
+                </div>
+                <div class="col l4">&nbsp;</div>
+                 
+                 
+                 
+                 
+                 
                  
               </div>
             </div>
@@ -202,6 +243,7 @@ $( document ).ready(function(){
 $(".button-collapse").sideNav();
 })
 ;
+ $('.carousel.carousel-slider').carousel({fullWidth: true});
 </script>
     </body>
   </html>
